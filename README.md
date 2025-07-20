@@ -47,7 +47,7 @@ docker-compose -v
 ### 2. Clone Repo นี้
 
 ```bash
-git clone https://github.com/your-username/apiservice-deploy.git
+git clone https://github.com/tiggertiya2022-ctrl/Facerecogito.git
 cd apiservice-deploy
 ```
 
