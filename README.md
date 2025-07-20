@@ -111,5 +111,3 @@ docker-compose down
 
 ---
 
-## ผู้พัฒนา
-- 
