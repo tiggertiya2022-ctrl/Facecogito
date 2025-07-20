@@ -111,5 +111,5 @@ docker-compose down
 
 ---
 
-## License
-MIT License
+## ผู้พัฒนา
+- 
